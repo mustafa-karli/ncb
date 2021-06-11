@@ -1,0 +1,25 @@
+{"properties": [
+  {
+    "name": "nauticana.default.language",
+    "type": "java.lang.String",
+    "defaultValue": "TR",
+    "description": "Default Login language for"
+  },
+  {
+    "name": "nauticana.session.lifetime",
+    "type": "java.lang.Long",
+    "defaultValue": 300000,
+    "description": "User session life time in milliseconds"
+  },
+  {
+    "name": "nauticana.database.type",
+    "type": "java.lang.Integer",
+    "defaultValue": 0,
+    "description": "Used DB driver 0: HSQLDB, 1 PGSQL"
+  },
+  {
+    "name": "nauticana.rest.rootMapping",
+    "type": "java.lang.String",
+    "description": "HTTP URL root mapping for REST services"
+  }
+]}
