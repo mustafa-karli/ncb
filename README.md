@@ -15,3 +15,5 @@ JSON objects are commonly used at frontend processing and GET/PUT scenarios.
 JPS can generate JSON objects but they do NOT know where to start or stop
 
 NCB is a simple but sophisticated REST backend.
+
+See presentation in doc for more details.
